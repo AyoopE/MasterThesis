@@ -3,7 +3,7 @@ Master Thesis: Enhanced analysis of circulating tumor DNA in pancreatic cancer u
 Student: Ayoop Ali Deeb Elkafarna
 
 
-The repository contains the follwoing 4 files, other than README.md:
+The repository contains the following 4 files, other than README.md:
 
 1. First_Classification_Problem.py
 This is a python file for all experiments for first classification problem.
@@ -18,7 +18,7 @@ This is a python file for all experiments for regression problem.
 This is a python file contains all functions needed for python scripts for the three machine learning problems mentioned over.
 
 
-The datasets exist in the folder: UnixServer\\prosjekt\BMDLab\data\pactact\Master_Thesis_Ayoop
+The datasets exist on unix server in this folder: /home/prosjekt/BMDLab/data/pactact/Master_Thesis_Ayoop
 There are 6 csv files inside the folder:
 
 First_Classification_Problem_data_part1.csv
