@@ -18,7 +18,6 @@ This is a python file for all experiments for regression problem.
 This is a python file for all functions needed for python scripts for the three machine learning problems mentioned over.
 
 
-
 The datasets exist in the folder: UnixServer\\prosjekt\BMDLab\data\pactact\Master_Thesis_Ayoop
 Inside the folder are 6 csv files:
 
@@ -47,6 +46,13 @@ Regression_Problem_data_part2.csv
 Where the regression model built on the dataset in the first file (Regression_Problem_data_part1.csv)
 The dataset in the second file (Regression_Problem_data_part2.csv) contains samples  to be predicted by the created model.
 
+
+Five Python libraries needed for Python scripts in this repository:
+NumPy
+Matplotlib
+Scikit-learn
+Pandas
+SciPy
 
 
 To run pyhton script for the first classification problem, the following files are needed to be in the same working directory:
