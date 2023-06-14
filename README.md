@@ -15,11 +15,11 @@ This is a python file for all experiments for second classification problem.
 This is a python file for all experiments for regression problem.
 
 4. all_functions.py
-This is a python file for all functions needed for python scripts for the three machine learning problems mentioned over.
+This is a python file contains all functions needed for python scripts for the three machine learning problems mentioned over.
 
 
 The datasets exist in the folder: UnixServer\\prosjekt\BMDLab\data\pactact\Master_Thesis_Ayoop
-Inside the folder are 6 csv files:
+There are 6 csv files inside the folder:
 
 First_Classification_Problem_data_part1.csv
 First_Classification_Problem_data_part2.csv
@@ -81,4 +81,4 @@ Create empty folder with name "images"
 
 
 OR Breifly:
-you can have all python files and datasets in the same working directory and then you have just to create two empty folders for all ML problems with names "results" and "images"
+you can have all python files and datasets in the same working directory and then you have just to create two empty folders for all machine learning problems with names "results" and "images"
