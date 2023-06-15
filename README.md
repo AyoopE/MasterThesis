@@ -22,7 +22,7 @@ This is a text file that contains the work environment packages in python where 
 (This file contains the output of the command: pip freeze > requirements.txt)
 
 
-######## The datasets ############
+######## The datasets ########
 The datasets used in experiments exist on unix server in this folder: /home/prosjekt/BMDLab/data/pactact/Master_Thesis_Ayoop
 
 There are six csv files inside the folder:
