@@ -47,12 +47,12 @@ Where the regression model built on the dataset in the first file (Regression_Pr
 The dataset in the second file (Regression_Problem_data_part2.csv) contains samples  to be predicted by the created model.
 
 
-Five Python libraries needed for Python scripts in this repository:
-NumPy
-Matplotlib
-Scikit-learn
-Pandas
-SciPy
+Five Python libraries are needed for Python scripts in this repository:
+NumPy v1.23.5
+Matplotlib v3.7.1
+Scikit-learn v1.2.2
+Pandas v1.5.3
+SciPy v1.10.1
 
 
 To run pyhton script for the first classification problem, the following files are needed to be in the same working directory:
