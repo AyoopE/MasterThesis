@@ -375,7 +375,7 @@ months_1 = plot_1st_prog_ref(df_all)
 
 
 # # Wilcoxon Signed-Rank Test for first progression as reference point
-wilcoxon_1st_prog(months_1)
+print(wilcoxon_1st_prog(months_1))
 
 
 # # Create a plot for tests  with first test (B1 test) as reference point
@@ -384,5 +384,5 @@ months_2 = plot_B1_test_ref(df_all)
 
 
 # # Wilcoxon Signed-Rank Test for B1 test as reference point
-wilcoxon_B1_test(months_2)
+print(wilcoxon_B1_test(months_2))
 
