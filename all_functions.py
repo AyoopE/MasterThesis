@@ -454,7 +454,7 @@ def wilcoxon_1st_prog(months):
     g2 = months['Progression']
     Wilcoxon_B1tests_Prog = stats.wilcoxon(g1, g2)
 
-    print('Total B1-tests vs Progression: ', Wilcoxon_B1tests_Prog[1] )
+    #print('Total B1-tests vs Progression: ', Wilcoxon_B1tests_Prog[1] )
 
     # Change value of B1-test/Progression in the previous table
     Wilcoxon_df.iloc[0][4] = Wilcoxon_df.iloc[4][0] = Wilcoxon_B1tests_Prog[1]
@@ -650,7 +650,7 @@ def wilcoxon_B1_test(months):
     g2 = Prog_S
     Wilcoxon_B1tests_Prog = stats.wilcoxon(g1, g2)
 
-    print('B1-tests vs Total Progression: ', Wilcoxon_B1tests_Prog[1] )
+    #print('B1-tests vs Total Progression: ', Wilcoxon_B1tests_Prog[1] )
 
     # Change value of B01/Progression in the previous table
     Wilcoxon_df.iloc[0][4] = Wilcoxon_df.iloc[4][0] = Wilcoxon_B1tests_Prog[1]
