@@ -21,6 +21,7 @@ This is a python file contains all functions needed for python scripts for the t
 This is a text file that contains the work environment packages in python where I performed the experiments.
 
 
+######## The datasets ############
 The datasets were used in experiments exist on unix server in this folder: /home/prosjekt/BMDLab/data/pactact/Master_Thesis_Ayoop
 There are 6 csv files inside the folder:
 
@@ -57,6 +58,9 @@ Scikit-learn v1.2.2
 Pandas v1.5.3
 SciPy v1.10.1
 
+
+##### Running python scripts ########
+You can run the scripts directly if you someone want. But there are comments almomst for each command to for more clarification of the use
 
 To run pyhton script for the first classification problem, the following files are needed to be in the same working directory:
 First_Classification_Problem.py
