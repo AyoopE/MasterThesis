@@ -1,2 +1,2 @@
-These files have been uploaded in this repository after request from Trygve Eftestøl after the deadline.
+These Jupyter Notebook files have been uploaded to this repository after a request from Trygve Eftestøl after the deadline.
 These Jupyter Notebook files are the original files for python files that were uploaded earlier in this repository, where the experiments were performed in Jupyter Notebook.
